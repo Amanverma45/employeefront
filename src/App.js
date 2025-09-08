@@ -1,4 +1,3 @@
-import React, { Component } from "react";
 import Navbar from "./Component/Navbar";
 import SignUp from "./Component/SignUp";
 import Login from "./Component/Login";
